@@ -1,0 +1,99 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "h",
+         "type": "float",
+         "value": 1.6
+      },
+      {
+         "name": "WP",
+         "type": "float",
+         "value": 34.1
+      },
+      {
+         "name": "LP",
+         "type": "float",
+         "value": 27.1
+      },
+      {
+         "name": "mt",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "WG",
+         "type": "float",
+         "value": 63.7
+      },
+      {
+         "name": "LG",
+         "type": "float",
+         "value": 55.7
+      },
+      {
+         "name": "x0",
+         "type": "float",
+         "value": 9.0
+      },
+      {
+         "name": "g",
+         "type": "float",
+         "value": 0.34
+      },
+      {
+         "name": "Wt",
+         "type": "float",
+         "value": 2.6
+      },
+      {
+         "name": "z",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "k",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "j",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "TW",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "TL",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "x",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "s",
+         "type": "float",
+         "value": 0.1
+      },
+      {
+         "name": "r",
+         "type": "float",
+         "value": 1.5
+      },
+      {
+         "name": "q",
+         "type": "float",
+         "value": 4.0
+      }
+   ],
+   "outputVariables": []
+}
