@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MetaResultFile version="20211011" creator="Solver HFTD - Field 3DFD Monitor">
   <MetaGeometryFile filename="model.gex" lod="1"/>
-  <SimulationProperties fieldname="h-field (f=2550) [1]" frequency="2550" encoded_unit="&amp;U:A^1.:m^-1" fieldtype="H-Field" fieldscaling="PEAK" dB_Amplitude="20"/>
+  <SimulationProperties fieldname="h-field (f=2550) [1]" frequency="2550" encoded_unit="&amp;U:A^1.:m^-1" quantity="h-field" fieldtype="H-Field" fieldscaling="PEAK" dB_Amplitude="20"/>
   <ResultDataType vector="1" complex="1" timedomain="0" frequencymap="0"/>
   <SimulationDomain min="-60.132309 -56.132309 -29.9173069" max="60.132309 56.132309 36.6853065"/>
   <PlotSettings Plot="4" ignore_symmetry="0" deformation="0" enforce_culling="0" integer_values="0" combine="CombineNone" default_arrow_type="ARROWS" default_scaling="NONE"/>
@@ -14,11 +14,16 @@
   <AuxGeometryFile/>
   <AuxResultFile/>
   <FieldFreeNodes/>
-  <SurfaceFieldCoefficients/>
+  <SurfaceFieldCoefficients filename="h-field_m3d.coe"/>
   <UnitCell/>
   <SubVolume/>
   <Units/>
-  <ProjectUnits/>
+  <ProjectUnits>
+    <Quantity name="length" unit="&amp;Um:m^1"/>
+    <Quantity name="frequency" unit="&amp;UM:Hz^1"/>
+    <Quantity name="time" unit="&amp;Un:s^1"/>
+    <Quantity name="temperature" unit="&amp;U:Cel^1"/>
+  </ProjectUnits>
   <TimeSampling/>
   <LocalAxes/>
   <MeshViewSettings/>
