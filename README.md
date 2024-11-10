@@ -22,5 +22,4 @@ Gain - 5dBi
 ![gain_2620](images/farfield_2620.png)
 
 ## Effective gain
-![eff_gain](images/RealGain).png
-aaa
+![eff_gain](images/RealGain.png)
