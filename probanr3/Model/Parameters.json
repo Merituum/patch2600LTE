@@ -1,0 +1,103 @@
+{
+    "parameters": [
+        {
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "descr": "OS X",
+            "expr": "34.1",
+            "name": "WP",
+            "value": "34.1"
+        },
+        {
+            "descr": "OS Y",
+            "expr": "27.1",
+            "name": "LP",
+            "value": "27.1"
+        },
+        {
+            "descr": "wys miedzi",
+            "expr": "0.035",
+            "name": "mt",
+            "value": "0.035"
+        },
+        {
+            "descr": "OS X",
+            "expr": "63.7",
+            "name": "WG",
+            "value": "63.7"
+        },
+        {
+            "descr": "OS Y",
+            "expr": "55.7",
+            "name": "LG",
+            "value": "55.7"
+        },
+        {
+            "descr": "dlugosc wciecia",
+            "expr": "9",
+            "name": "x0",
+            "value": "9"
+        },
+        {
+            "descr": "szerokosc wciecia",
+            "expr": "0.34",
+            "name": "g",
+            "value": "0.34"
+        },
+        {
+            "descr": "szerokosc paska",
+            "expr": "2.6",
+            "name": "Wt",
+            "value": "2.6"
+        },
+        {
+            "expr": "0",
+            "name": "z",
+            "value": "0"
+        },
+        {
+            "expr": "3",
+            "name": "k",
+            "value": "3"
+        },
+        {
+            "expr": "0",
+            "name": "j",
+            "value": "0"
+        },
+        {
+            "expr": "5",
+            "name": "TW",
+            "value": "5"
+        },
+        {
+            "expr": "5",
+            "name": "TL",
+            "value": "5"
+        },
+        {
+            "expr": "2",
+            "name": "x",
+            "value": "2"
+        },
+        {
+            "expr": "0.1",
+            "name": "s",
+            "value": "0.1"
+        },
+        {
+            "expr": "1.5",
+            "name": "r",
+            "value": "1.5"
+        },
+        {
+            "expr": "4",
+            "name": "q",
+            "value": "4"
+        }
+    ],
+    "version": 1
+}

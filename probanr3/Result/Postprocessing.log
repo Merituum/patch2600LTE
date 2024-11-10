@@ -1,0 +1,19 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  MHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 2024-11-10 01:37:34
+
+  Evaluating 'Realized Gain,Phi=0.0,Max. Value (Subrange)': 15.056 s
+
+  Total time: 15 s  ( = 0 h, 0 m, 15 s )
+
+Template based post-processing finished at: 2024-11-10 01:37:49
+----------------------------------------------------------------------------------------
